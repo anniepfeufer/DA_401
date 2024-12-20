@@ -17,5 +17,10 @@ Data from:
 
 Trilca et al(2016), Cook et al(2016), USDA NASS Quick Stats
 
-https://datadryad.org/stash/dataset/doi:10.5061/dryad.g1n25 
-https://datadryad.org/stash/dataset/doi:10.5061/dryad.7920c 
+Cook, Rachel L.; Trlica, Andrew (2016). Data from: Tillage and fertilizer effects on crop yield
+and soil properties over 45 years in southern Illinois [Dataset]. Dryad.
+https://doi.org/10.5061/dryad.7920c
+
+Trlica, Andrew; Walia, Maninder K.; Krausz, Ron et al. (2016). Data from: Continuous corn and
+corn–soybean profits over a 45-year tillage and fertilizer experiment [Dataset]. Dryad.
+https://doi.org/10.5061/dryad.g1n25
