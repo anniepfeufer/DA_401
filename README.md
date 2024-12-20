@@ -15,7 +15,7 @@ not mean higher profit as they had to pay off expenses.
 ## Data
 Data from:
 
-Trilca et al(2016), Cook et al(2016), USDA NASS Quick Stats
+USDA NASS Quick Stats
 
 Cook, Rachel L.; Trlica, Andrew (2016). Data from: Tillage and fertilizer effects on crop yield
 and soil properties over 45 years in southern Illinois [Dataset]. Dryad.
